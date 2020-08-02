@@ -1,5 +1,5 @@
 // functions that interact with database
-const orm = ("../config/orm.js");
+const orm = require("../config/orm");
 
 const burger = {
   all: function(cb){
