@@ -12,7 +12,7 @@
   * [Credits](#credits)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Image of Site](#images)
   * [Questions](#questions) 
   
   ## Installation
@@ -24,10 +24,10 @@
   This site is covered under MIT
   
   ## Contributing
-  Please conact me on GitHub to contribute.
+  Please contact me on GitHub to contribute.
 
-  ## Tests
-  n/a
+  ## Images of deployed site
+![BobsBurgers](public/img/BobsBurgers.png?raw=true "BobsBurgers")
   
   ## Questions?
   https://github.com/CodingwithJess
